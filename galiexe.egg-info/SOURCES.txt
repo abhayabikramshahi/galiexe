@@ -1,0 +1,8 @@
+README.md
+setup.py
+galiexe/__init__.py
+galiexe/core.py
+galiexe.egg-info/PKG-INFO
+galiexe.egg-info/SOURCES.txt
+galiexe.egg-info/dependency_links.txt
+galiexe.egg-info/top_level.txt
